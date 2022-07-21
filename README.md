@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## What is this?
+Template repository for development with Next.js, TypeScript, Docker and styled-components.
+Next.js、TypeScript、Docker、styled-componentsを用いた開発のテンプレートリポジトリ
+
 ## Getting Started
 
 First, run the development server:
