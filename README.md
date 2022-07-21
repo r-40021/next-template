@@ -2,7 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## What is this?
 Template repository for development with Next.js, TypeScript, Docker and styled-components.
+
+You can copy this repository by clicking on the [Use this template] button.
+
 Next.js、TypeScript、Docker、styled-componentsを用いた開発のテンプレートリポジトリ
+
+[Use this template] ボタンをクリックして、このリポジトリをコピーできます。
 
 ## Getting Started
 
